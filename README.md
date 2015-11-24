@@ -4,12 +4,6 @@ A dockerized app ready for use with Shippable's Docker Build Support
 How to build this sample
 ------------------------
 
-Prerequisites :
-
-1. You need to be on the Startup plan to use DockerBuild functionality
-
-2. Dockerbuild support is only with dedicated hosts. More on dedicated hosts [here](http://docs.shippable.com/en/latest/config.html#dedicated-hosts).
-
 There are 2 ways to set up Docker build with Shippable - pre CI or post CI. 
 Pre CI workflow is:  
 * Build the image using Dockerfile at the root of your repo
