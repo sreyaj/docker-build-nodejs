@@ -1,2 +1,5 @@
 script:
   - true
+notifications:
+  email:
+  -sreya@shippable.com  
