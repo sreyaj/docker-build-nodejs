@@ -1,5 +1,8 @@
+language: python
+python:
+  - 5.5
 script:
   - true
 notifications:
   email:
-  -sreya@shippable.com  
+  - sreya@shippable.com  
